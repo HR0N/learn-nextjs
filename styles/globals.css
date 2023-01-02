@@ -2,6 +2,9 @@ html, body, *{
   margin: 0;
   padding: 0;
 
+  font-family: var(--roboto);
+  font-weight: 300;
+
   box-sizing: border-box;
 
   color: var(--black-v2);
@@ -35,4 +38,7 @@ html, body, *{
   --blue-sky-v2: #f2f2f2;
 
   --yellow: #fcde67;
+
+
+  --roboto: 'Roboto', sans-serif;
 }

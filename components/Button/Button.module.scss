@@ -1,0 +1,15 @@
+.button{
+  display: inline-block;
+
+  cursor: pointer;
+  transition: all .2s;
+  padding: 6px;
+  border: 1px solid var(--black-v2);
+  border-radius: 4px 6px;
+
+  background-color: var(--green-forest);
+  color: var(--white-cream);
+
+  &:hover{background-color: var(--white-cream); color: var(--green-forest);}
+  &:active{background-color: #d0ccc3; color: var(--green-forest);}
+}
