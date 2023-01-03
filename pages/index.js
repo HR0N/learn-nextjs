@@ -15,6 +15,7 @@ export default function Home() {
             <div className={home.Home}>
                 <Htag bol={`true`}>Where T E S T</Htag>
                 <Button>Button</Button>
+                <Button>Button 2</Button>
             </div>
         </>
     )
