@@ -5,7 +5,7 @@ import React from "react";
 export default function App({Component, pageProps}) {
     return <>
         <Head>
-            <title>Learn Next JS</title>
+            <title>title</title>
         </Head>
         <Component {...pageProps} />
     </>;
