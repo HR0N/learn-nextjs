@@ -6,6 +6,7 @@ import {withLayout} from "../components/Layout/Layout";
 
 
 function Home() {
+
     return (
         <>
                 <Head>
